@@ -19,24 +19,24 @@ Windows -> Ubuntu
 ## Overview
 
 ### Project structure
-re-zero-ubuntu/
-├── README.md
-├── day-01/
-│ └── notes.md
-├── day-02/
-│ └── notes.md
-├── day-03/
-│ └── notes.md
-├── day-04/
-│ └── notes.md
-├── day-05/
-│ └── notes.md
-├── day-06/
-│ └── notes.md
-├── day-07/
-│ └── notes.md
-├── projects/
-└── screenshots/
+re-zero-ubuntu/  
+├── README.md  
+├── day-01/  
+│ └── notes.md  
+├── day-02/  
+│ └── notes.md  
+├── day-03/  
+│ └── notes.md  
+├── day-04/  
+│ └── notes.md  
+├── day-05/  
+│ └── notes.md  
+├── day-06/  
+│ └── notes.md  
+├── day-07/  
+│ └── notes.md  
+├── projects/  
+└── screenshots/  
 
 ## Goals
 
