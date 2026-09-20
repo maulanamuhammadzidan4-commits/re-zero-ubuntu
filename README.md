@@ -41,8 +41,8 @@ re-zero-ubuntu/
 ## Goals
 
 ### Linux
-- [ ] Linux fundamentals
-- [ ] Terminal
+- [x] Linux fundamentals
+- [x] Terminal
 - [ ] Permissions
 - [ ] Package management
 - [ ] Processes
