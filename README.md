@@ -4,7 +4,7 @@
 > and become comfortable using Linux as my daily os
 
 ## The Incident
-I was attempted to set up a Windows/Ubuntu dual-boot environtment.
+I attempted to set up a Windows/Ubuntu dual-boot environtmen.
 
 Things did not go according to plan.
 
@@ -16,7 +16,31 @@ Thus began my 7-day challenge:
 
 Windows -> Ubuntu
 
+## Overview
+
+### Project structure
+re-zero-ubuntu/
+├── README.md
+├── day-01/
+│ └── notes.md
+├── day-02/
+│ └── notes.md
+├── day-03/
+│ └── notes.md
+├── day-04/
+│ └── notes.md
+├── day-05/
+│ └── notes.md
+├── day-06/
+│ └── notes.md
+├── day-07/
+│ └── notes.md
+├── projects/
+└── screenshots/
+
 ## Goals
+
+### Linux
 - [ ] Linux fundamentals
 - [ ] Terminal
 - [ ] Permissions
@@ -24,25 +48,63 @@ Windows -> Ubuntu
 - [ ] Processes
 - [ ] Services
 - [ ] Networking
+
+### Development
 - [ ] PHP
 - [ ] MySQL
 - [ ] Git
 - [ ] ML environment
 - [ ] Godot
+
+### Customization
 - [ ] Ubuntu customization
 
+## Environment
+
+- OS: Ubuntu 26.04
+- Previous OS: Windows 11
+- Main focus: Linux & Backend dev
+- Duration: 7 days
+- Start: Sep 20
+- End: Sep 26
+- Final test: Sep 28
+
 ## Daily Progress
-### day-01
+### day-01: The End of the Beginning and the Beginning of the FUNDAMENTALS
 ---
-### day-02
+- What I learned
+On this first day, I learned about the differences between Windows and Linux file systems. Unlike Windows, Linux does not use drive letters like `C:\` or `D:\`, but instead organizes everything under a single root directory (`/`). I also familiarized myself with using the terminal to manage files.
+- What I practiced
+I practiced how to change directories, create files, copy them, cut or rename them, and delete files.
+
+### day-02: The Sound of SUDO, PERMISSIONS, & PACKAGE MANAGEMENT
 ---
-### day-03
+- What I learned
+- What I practiced
+
+### day-03: The Morning of Our PROCESS, SERVICES, & TROUBLESHOOTING is Still Far Off
 ---
-### day-04
+- What I learned
+- What I practiced
+
+### day-04: The Happy NETWORKING Basic Family
 ---
-### day-05
+- What I learned
+- What I practiced
+
+### day-05: The Meaning of BACKEND ENVIRONTMENT
 ---
-### day-06
+- What I learned
+- What I practiced
+
+### day-06: Sensei's Restart
 ---
-### day-07
+- What I learned
+- What I practiced
+
+### day-07: Battle Against the UBUNTU
 ---
+- What I learned
+- What I practiced
+
+Environment
