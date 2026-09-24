@@ -50,8 +50,8 @@ re-zero-ubuntu/
 - [x] Networking
 
 ### Development
-- [ ] PHP
-- [ ] MySQL
+- [x] PHP
+- [x] MySQL
 - [ ] Git
 - [ ] ML environment
 - [ ] Godot
@@ -103,7 +103,10 @@ I practiced how to use `ip` command to view ip address. And `ss -tulpn` command 
 ### day-05: The Meaning of BACKEND ENVIRONTMENT
 ---
 - What I learned
+Today, I learned about the basic of backend environment in Linux. I learned about how to install MySQL, PHP, Apache, PHPMyAdmin, Composer, and Node.js & npm. I also learned about how to use SSH for extra layer of security for my backend environment.
+
 - What I practiced
+I practiced how to install MySQL, PHP, Apache, PHPMyAdmin, Composer, and Node.js & npm. I also practiced how to use SSH for extra layer of security for my backend environment.
 
 ### day-06: Sensei's Restart
 ---
