@@ -80,7 +80,10 @@ I practiced how to change directories, create files, copy them, cut or rename th
 ### day-02: The Sound of SUDO, PERMISSIONS, & PACKAGE MANAGEMENT
 ---
 - What I learned
+I learned about the differences between Windows and Linux permissions. Unlike Windows, Linux uses a system of users, groups, and others to manage file permissions. I also learned about the sudo (superuser do) command, which allows users to run commands with root privileges. Finally, I learned about the package manager apt, which is used to install, update, and remove software.
+
 - What I practiced
+I practiced how to change file permissions, add users, and manage groups. I also practiced how to install, update, and remove software using the apt package manager. Lastly, I practiced how to use the sudo command to run commands with root privileges.
 
 ### day-03: The Morning of Our PROCESS, SERVICES, & TROUBLESHOOTING is Still Far Off
 ---
