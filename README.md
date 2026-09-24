@@ -45,9 +45,9 @@ re-zero-ubuntu/
 - [x] Terminal
 - [x] Permissions
 - [x] Package management
-- [ ] Processes
-- [ ] Services
-- [ ] Networking
+- [x] Processes
+- [x] Services
+- [x] Networking
 
 ### Development
 - [ ] PHP
@@ -95,7 +95,10 @@ I practiced how to view and manage processes, and how to troubleshoot them.
 ### day-04: The Happy NETWORKING Basic Family
 ---
 - What I learned
+Networking is a way to connect computers to each other. In this day I learned about the basic of networking, like IP address, and port.
+
 - What I practiced
+I practiced how to use `ip` command to view ip address. And `ss -tulpn` command to view and manage port.
 
 ### day-05: The Meaning of BACKEND ENVIRONTMENT
 ---
