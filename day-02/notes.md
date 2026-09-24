@@ -1,5 +1,8 @@
-# Day 2
+# Day 2 - Linux Permissions, Sudo, & Package Management
 ## Daily Target
+- Learn about Linux file permissions.
+- Learn about sudo (superuser do).
+- Learn about package management.
 
 ## What I learned today
 1. Linux File Permissions
