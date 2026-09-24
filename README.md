@@ -43,8 +43,8 @@ re-zero-ubuntu/
 ### Linux
 - [x] Linux fundamentals
 - [x] Terminal
-- [ ] Permissions
-- [ ] Package management
+- [x] Permissions
+- [x] Package management
 - [ ] Processes
 - [ ] Services
 - [ ] Networking
@@ -88,7 +88,9 @@ I practiced how to change file permissions, add users, and manage groups. I also
 ### day-03: The Morning of Our PROCESS, SERVICES, & TROUBLESHOOTING is Still Far Off
 ---
 - What I learned
+Today, I learned about process, services, and troubleshooting in Linux. Unlike Windows, where we can see the Task Manager to view and manage processes, Linux has a different way of managing them. 
 - What I practiced
+I practiced how to view and manage processes, and how to troubleshoot them.
 
 ### day-04: The Happy NETWORKING Basic Family
 ---
